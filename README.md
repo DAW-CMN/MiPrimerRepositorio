@@ -11,5 +11,3 @@ Este es un texto con **negrita** y *cursiva*.
 ## Código
 ```js
 let x = 10;
-
----
